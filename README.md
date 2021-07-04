@@ -3,4 +3,8 @@
 ---
 
 ## 2021/07/03 
-- BOJ 10809 : 문자열
+- [BOJ 10809 : 문자열](https://www.acmicpc.net/problem/10809)
+
+## 2021/07/04
+- [BOJ 1912 : 연속합](https://www.acmicpc.net/problem/1912)
+- [BOJ 2309 : 일곱 난쟁이](https://www.acmicpc.net/problem/2309)
