@@ -9,5 +9,5 @@
 - [BOJ 1912 : 연속합](https://www.acmicpc.net/problem/1912)
 - [BOJ 2309 : 일곱 난쟁이](https://www.acmicpc.net/problem/2309)
 
-## 2021/07/04
+## 2021/07/05
 - [BOJ 3085 : 사탕 게임](https://www.acmicpc.net/problem/3085)
