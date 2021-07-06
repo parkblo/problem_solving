@@ -2,7 +2,8 @@
 
 ---
 
-## 2021/07/03 
+
+## 2021/07/03
 - [BOJ 10809 : 문자열](https://www.acmicpc.net/problem/10809)
 
 ## 2021/07/04
@@ -11,3 +12,6 @@
 
 ## 2021/07/05
 - [BOJ 3085 : 사탕 게임](https://www.acmicpc.net/problem/3085)
+
+## 2021/07/06
+- [BOJ 10819 : 차이를 최대로](https://www.acmicpc.net/problem/10819)
