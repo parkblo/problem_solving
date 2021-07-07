@@ -15,3 +15,6 @@
 
 ## 2021/07/06
 - [BOJ 10819 : 차이를 최대로](https://www.acmicpc.net/problem/10819)
+
+## 2021/07/07
+- [BOJ 1018 : 체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)
