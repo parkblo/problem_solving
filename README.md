@@ -26,3 +26,8 @@
 - [BOJ 2748 : 피보나치 수 2](https://www.acmicpc.net/problem/2748)
 - [BOJ 10870 : 피보나치 수 5](https://www.acmicpc.net/problem/10870)
 - [BOJ 9095 : 1, 2, 3 더하기](https://www.acmicpc.net/problem/9095)
+
+## 2021/07/10
+- [BOJ 18870 : 좌표 압축](https://www.acmicpc.net/problem/18870)
+- [BOJ 2606 : 바이러스](https://www.acmicpc.net/problem/2606)
+- [BOJ 11724 : 연결 요소의 개수](https://www.acmicpc.net/problem/11724)
