@@ -32,3 +32,6 @@
 
 ### 2021/07/14
 - [BOJ 1260 : DFS와 BFS](https://www.acmicpc.net/problem/1260)
+
+### 2021/07/15
+- [BOJ 9184 : 신나는 함수 실행](https://www.acmicpc.net/problem/9184)
