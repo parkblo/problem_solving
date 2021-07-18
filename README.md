@@ -18,4 +18,5 @@
 ||[BOJ 11724 : 연결 요소의 개수](https://www.acmicpc.net/problem/11724)||
 |21.07.14|[BOJ 1260 : DFS와 BFS](https://www.acmicpc.net/problem/1260)||
 |21.07.15|[BOJ 9184 : 신나는 함수 실행](https://www.acmicpc.net/problem/9184)||
-|21.07.17|프로그래머스 LEVEL 1||
+|21.07.17|[프로그래머스 스킬 체크 LEVEL 1](https://programmers.co.kr/skill_checks)||
+|21.07.18|[BOJ 16953 : A → B](https://www.acmicpc.net/problem/16953)||
