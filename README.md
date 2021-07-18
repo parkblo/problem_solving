@@ -1,7 +1,7 @@
 ## ps_1day_1solve
 
 ### JULY
-|Date|Problem|Remarks|
+|Date|Problems|Remarks|
 |-----|:-----:|-----|
 |21.07.03|[BOJ 10809 : 문자열](https://www.acmicpc.net/problem/10809)||
 |21.07.04|[BOJ 1912 : 연속합](https://www.acmicpc.net/problem/1912)||
