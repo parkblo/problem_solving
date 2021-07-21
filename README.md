@@ -22,3 +22,4 @@
 |21.07.18|[BOJ 16953 : A → B](https://www.acmicpc.net/problem/16953)||
 |21.07.19|[BOJ 15650 : N과 M(2)](https://www.acmicpc.net/problem/15650)||
 |21.07.20|[BOJ 2941 : 크로아티아 알파벳](https://www.acmicpc.net/problem/2941)||
+|21.07.21|[BOJ 1629 : 곱셈](https://www.acmicpc.net/problem/1629)||
