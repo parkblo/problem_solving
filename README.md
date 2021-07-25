@@ -25,3 +25,4 @@
 |21.07.21|[BOJ 1629 : 곱셈](https://www.acmicpc.net/problem/1629)||
 |21.07.22|[BOJ 15651 : N과 M(3)](https://www.acmicpc.net/problem/15651)||
 ||[BOJ 15652 : N과 M(4)](https://www.acmicpc.net/problem/15652)||
+|21.07.24|[BOJ 1759 : 암호 만들기](https://www.acmicpc.net/problem/1759)||
