@@ -1,6 +1,6 @@
 ## ps_1day_1solve
 
-### JULY
+### 2021 JULY
 |Date|Problems|Remarks|
 |-----|:-----:|-----|
 |21.07.03|[BOJ 10809 : 문자열](https://www.acmicpc.net/problem/10809)||
