@@ -1,5 +1,3 @@
-## ps_1day_1solve
-
 ### 2021 JULY
 |Date|Problems|Remarks|
 |-----|:-----:|-----|
