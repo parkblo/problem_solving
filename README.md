@@ -25,4 +25,5 @@
 ||[BOJ 15652 : N과 M(4)](https://www.acmicpc.net/problem/15652)||
 |21.07.24|[BOJ 1759 : 암호 만들기](https://www.acmicpc.net/problem/1759)||
 |21.07.27|[BOJ 7576 : 토마토](https://www.acmicpc.net/problem/7576)||
-||[BOJ 7569 : 토마토](https://www.acmicpc.net/problem/7569)|||
+||[BOJ 7569 : 토마토](https://www.acmicpc.net/problem/7569)||
+|21.07.30|[BOJ 7568 : 토마토](https://www.acmicpc.net/problem/7568)||
