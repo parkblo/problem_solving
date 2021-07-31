@@ -27,3 +27,4 @@
 |21.07.27|[BOJ 7576 : 토마토](https://www.acmicpc.net/problem/7576)||
 ||[BOJ 7569 : 토마토](https://www.acmicpc.net/problem/7569)||
 |21.07.30|[BOJ 7568 : 덩치](https://www.acmicpc.net/problem/7568)||
+|21.07.31|[BOJ 16236 : 아기 상어](https://www.acmicpc.net/problem/16236)||
