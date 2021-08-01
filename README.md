@@ -32,4 +32,5 @@
 ### 2021 August
 |Date|Problems|Remarks|
 |-----|:-----:|-----|
-|21.08.01|[BOJ 2239 : 스도쿠](https://www.acmicpc.net/problem/2239)||
+|21.08.01|[BOJ 2239 : 스도쿠](https://www.acmicpc.net/problem/2239)|=[BOJ 2580](https://www.acmicpc.net/problem/2239)|
+
