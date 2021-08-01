@@ -28,3 +28,8 @@
 ||[BOJ 7569 : 토마토](https://www.acmicpc.net/problem/7569)||
 |21.07.30|[BOJ 7568 : 덩치](https://www.acmicpc.net/problem/7568)||
 |21.07.31|[BOJ 16236 : 아기 상어](https://www.acmicpc.net/problem/16236)||
+
+### 2021 August
+|Date|Problems|Remarks|
+|-----|:-----:|-----|
+|21.08.01|[BOJ 2239 : 스도쿠](https://www.acmicpc.net/problem/2239)||
