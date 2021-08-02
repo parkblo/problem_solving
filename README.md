@@ -1,7 +1,7 @@
 ### 2021 JULY
 |Date|Problems|Remarks|
 |-----|:-----:|-----|
-|21.07.03|[BOJ 10809 : 문자열](https://www.acmicpc.net/problem/10809)||
+|21.07.03|[BOJ 10809 : 알파벳 찾기](https://www.acmicpc.net/problem/10809)||
 |21.07.04|[BOJ 1912 : 연속합](https://www.acmicpc.net/problem/1912)||
 ||[BOJ 2309 : 일곱 난쟁이](https://www.acmicpc.net/problem/2309)||
 |21.07.05|[BOJ 3085 : 사탕 게임](https://www.acmicpc.net/problem/3085)||
