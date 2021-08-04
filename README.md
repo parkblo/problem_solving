@@ -2,7 +2,7 @@
 |Date|Problems|Remarks|
 |-----|:-----:|-----|
 |21.08.01|[BOJ 2239 : 스도쿠](https://www.acmicpc.net/problem/2239)|=[BOJ 2580](https://www.acmicpc.net/problem/2580)|
-
+|21.08.04|[BOJ 2231 : 분해합](https://www.acmicpc.net/problem/2231)||
 
 
 ### 2021 JULY
