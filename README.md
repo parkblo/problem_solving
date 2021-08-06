@@ -5,6 +5,7 @@
 |21.08.04|[BOJ 2231 : 분해합](https://www.acmicpc.net/problem/2231)||
 |21.08.05|[BOJ 11279 : 최대 힙](https://www.acmicpc.net/problem/11279)||
 |21.08.06|[BOJ 1927 : 최소 힙](https://www.acmicpc.net/problem/1927)||
+||[BOJ 1149 : RGB거리](https://www.acmicpc.net/problem/1149)||
 
 
 ### 2021 JULY
