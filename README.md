@@ -1,4 +1,4 @@
-### 2021 August
+### 2021 AUGUST
 |Date|Problems|Remarks|
 |-----|:-----:|-----|
 |21.08.01|[BOJ 2239 : 스도쿠](https://www.acmicpc.net/problem/2239)|=[BOJ 2580](https://www.acmicpc.net/problem/2580)|
@@ -6,6 +6,7 @@
 |21.08.05|[BOJ 11279 : 최대 힙](https://www.acmicpc.net/problem/11279)||
 |21.08.06|[BOJ 1927 : 최소 힙](https://www.acmicpc.net/problem/1927)||
 ||[BOJ 1149 : RGB거리](https://www.acmicpc.net/problem/1149)||
+|21.08.07|[BOJ 1932 : 정수 삼각형](https://www.acmicpc.net/problem/1932)||
 
 
 ### 2021 JULY
