@@ -1,4 +1,6 @@
 ### 2021 AUGUST
+> GOAL : solved.ac class 4+ (05 / 24)
+
 |Date|Problems|Remarks|
 |-----|:-----:|-----|
 |21.08.01|[BOJ 2239 : 스도쿠](https://www.acmicpc.net/problem/2239)|=[BOJ 2580](https://www.acmicpc.net/problem/2580)|
