@@ -9,7 +9,7 @@
 |21.08.06|[BOJ 1927 : 최소 힙](https://www.acmicpc.net/problem/1927)||
 ||[BOJ 1149 : RGB거리](https://www.acmicpc.net/problem/1149)||
 |21.08.07|[BOJ 1932 : 정수 삼각형](https://www.acmicpc.net/problem/1932)||
-|21.08.08|[BOJ 11053 : 가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053)|LIS 알고리즘|gfdagdfgdsgregs
+|21.08.08|[BOJ 11053 : 가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053)|LIS 알고리즘|
 
 
 ### 2021 JULY
