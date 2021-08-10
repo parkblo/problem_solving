@@ -1,8 +1,8 @@
 ### 2021 AUGUST
-> GOAL : solved.ac class 4+ (05 / 24)
+> GOAL : solved.ac class 4+ (06 / 24)
 
 |Date|Problems|Remarks|
-|-----|:-----:|-----|
+|-----|:-----:|:-----:|
 |21.08.01|[BOJ 2239 : 스도쿠](https://www.acmicpc.net/problem/2239)|=[BOJ 2580](https://www.acmicpc.net/problem/2580)|
 |21.08.04|[BOJ 2231 : 분해합](https://www.acmicpc.net/problem/2231)||
 |21.08.05|[BOJ 11279 : 최대 힙](https://www.acmicpc.net/problem/11279)||
@@ -10,11 +10,12 @@
 ||[BOJ 1149 : RGB거리](https://www.acmicpc.net/problem/1149)||
 |21.08.07|[BOJ 1932 : 정수 삼각형](https://www.acmicpc.net/problem/1932)||
 |21.08.08|[BOJ 11053 : 가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053)|LIS 알고리즘|
+|21.08.10|[BOJ 2407 : 조합](https://www.acmicpc.net/problem/2407)|큰 수 다루기 + 수학지식|
 
 
 ### 2021 JULY
 |Date|Problems|Remarks|
-|-----|:-----:|-----|
+|-----|:-----:|:-----:|
 |21.07.03|[BOJ 10809 : 알파벳 찾기](https://www.acmicpc.net/problem/10809)||
 |21.07.04|[BOJ 1912 : 연속합](https://www.acmicpc.net/problem/1912)||
 ||[BOJ 2309 : 일곱 난쟁이](https://www.acmicpc.net/problem/2309)||
