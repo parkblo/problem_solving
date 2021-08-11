@@ -11,7 +11,7 @@
 |21.08.07|[BOJ 1932 : 정수 삼각형](https://www.acmicpc.net/problem/1932)||
 |21.08.08|[BOJ 11053 : 가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053)|LIS 알고리즘|
 |21.08.10|[BOJ 2407 : 조합](https://www.acmicpc.net/problem/2407)|큰 수 다루기 + 수학지식|
-
+|21.08.11|[BOJ 11725 : 트리의 부모 찾기](https://www.acmicpc.net/problem/11725)|*BFS로도 풀어보기|
 
 ### 2021 JULY
 |Date|Problems|Remarks|
@@ -22,7 +22,7 @@
 |21.07.05|[BOJ 3085 : 사탕 게임](https://www.acmicpc.net/problem/3085)||
 |21.07.06|[BOJ 10819 : 차이를 최대로](https://www.acmicpc.net/problem/10819)||
 |21.07.07|[BOJ 1018 : 체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)||
-|21.07.08|[BOJ 9711 : 피보나치](https://www.acmicpc.net/problem/9711)|후에 다시 풀어보기|
+|21.07.08|[BOJ 9711 : 피보나치](https://www.acmicpc.net/problem/9711)|*다시 풀어보기|
 |21.07.09|[BOJ 2748 : 피보나치 수 2](https://www.acmicpc.net/problem/2748)||
 ||[BOJ 10870 : 피보나치 수 5](https://www.acmicpc.net/problem/10870)||
 ||[BOJ 9095 : 1, 2, 3 더하기](https://www.acmicpc.net/problem/9095)||
