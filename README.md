@@ -13,6 +13,10 @@
 |21.08.10|[BOJ 2407 : 조합](https://www.acmicpc.net/problem/2407)|큰 수 다루기 + 수학지식|
 |21.08.11|[BOJ 11725 : 트리의 부모 찾기](https://www.acmicpc.net/problem/11725)|*BFS로도 풀어보기|
 
+<details>
+<summary>View past history</summary>
+<p>
+
 ### 2021 JULY
 |Date|Problems|Remarks|
 |-----|:-----:|:-----:|
@@ -43,3 +47,6 @@
 ||[BOJ 7569 : 토마토](https://www.acmicpc.net/problem/7569)||
 |21.07.30|[BOJ 7568 : 덩치](https://www.acmicpc.net/problem/7568)||
 |21.07.31|[BOJ 16236 : 아기 상어](https://www.acmicpc.net/problem/16236)||
+
+</p>
+</details>
