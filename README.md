@@ -1,5 +1,5 @@
 ### 2021 AUGUST
-> GOAL : solved.ac class 4+ (08 / 24)
+> GOAL : solved.ac class 4+ (09 / 24)
 
 |Date|Problems|Remarks|
 |-----|:-----:|:-----:|
@@ -14,6 +14,7 @@
 |21.08.11|[BOJ 11725 : 트리의 부모 찾기](https://www.acmicpc.net/problem/11725)|🔹BFS로도 풀어보기|
 |21.08.13|[BOJ 9663 : N-Queen](https://www.acmicpc.net/problem/9663)|백트래킹. 7896ms인데 용케 통과|
 |21.08.14|[BOJ 14502 : 연구소](https://www.acmicpc.net/problem/14502)|BFS|
+|21.08.15|[BOJ 9465 : 스티커](https://www.acmicpc.net/problem/9465)|🔹DP. 다시 풀어보기|
 
 <details>
 <summary>View past history</summary>
