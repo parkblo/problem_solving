@@ -1,5 +1,5 @@
 ### 2021 AUGUST
-> GOAL : solved.ac class 4+ (11 / 24)
+> GOAL : solved.ac class 4+ (12 / 24)
 
 |Date|Problems|Remarks|
 |-----|:-----:|:-----:|
@@ -17,6 +17,7 @@
 |21.08.15|[BOJ 9465 : 스티커](https://www.acmicpc.net/problem/9465)|🔹DP. 다시 풀어보기|
 |21.08.17|[BOJ 1753 : 최단경로](https://www.acmicpc.net/problem/1753)|Dijkstra.........힘들었다 [(참고글)](https://www.acmicpc.net/board/view/34516)|
 |21.08.18|[BOJ 12865 : 평범한 배낭](https://www.acmicpc.net/problem/12865)|DP|
+|21.08.19|[BOJ 15654 : N과 M(5)](https://www.acmicpc.net/problem/15654)|백트래킹|
 
 <details>
 <summary>View past history</summary>
