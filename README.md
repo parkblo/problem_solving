@@ -19,6 +19,7 @@
 |21.08.18|[BOJ 12865 : 평범한 배낭](https://www.acmicpc.net/problem/12865)|DP|
 |21.08.19|[BOJ 15654 : N과 M(5)](https://www.acmicpc.net/problem/15654)|백트래킹|
 |21.08.20|[BOJ 1991 : 트리 순회](https://www.acmicpc.net/problem/1991)||
+|21.08.21|[BOJ 9251 : LCS](https://www.acmicpc.net/problem/9251)|🔹LCS, DP|
 
 <details>
 <summary>View past history</summary>
