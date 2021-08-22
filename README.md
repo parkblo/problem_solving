@@ -1,5 +1,5 @@
 ### 2021 AUGUST
-> GOAL : solved.ac class 4+ (12 / 24)
+> GOAL : solved.ac class 4+ (16 / 24)
 
 |Date|Problems|Remarks|
 |-----|:-----:|:-----:|
@@ -21,6 +21,7 @@
 |21.08.20|[BOJ 1991 : 트리 순회](https://www.acmicpc.net/problem/1991)||
 |21.08.21|[BOJ 9251 : LCS](https://www.acmicpc.net/problem/9251)|🔹LCS, DP|
 |21.08.22|[BOJ 2206 : 벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)|단순 BFS가 아님!|
+||[BOJ 11404 : 플로이드](https://www.acmicpc.net/problem/11404)|Floyd-Warshall [(참고글)](https://blog.naver.com/ndb796/221234427842)|
 
 <details>
 <summary>View past history</summary>
