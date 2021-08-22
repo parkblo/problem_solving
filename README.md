@@ -20,6 +20,7 @@
 |21.08.19|[BOJ 15654 : N과 M(5)](https://www.acmicpc.net/problem/15654)|백트래킹|
 |21.08.20|[BOJ 1991 : 트리 순회](https://www.acmicpc.net/problem/1991)||
 |21.08.21|[BOJ 9251 : LCS](https://www.acmicpc.net/problem/9251)|🔹LCS, DP|
+|21.08.22|[BOJ 2206 : 벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)|단순 BFS가 아님!|
 
 <details>
 <summary>View past history</summary>
