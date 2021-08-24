@@ -22,7 +22,7 @@
 |21.08.21|[BOJ 9251 : LCS](https://www.acmicpc.net/problem/9251)|🔹LCS, DP|
 |21.08.22|[BOJ 2206 : 벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)|단순 BFS가 아님!|
 ||[BOJ 11404 : 플로이드](https://www.acmicpc.net/problem/11404)|Floyd-Warshall [(참고글)](https://blog.naver.com/ndb796/221234427842)|
-|21.08.24|[BOJ 1967 : 트리의 지름](https://www.acmicpc.net/problem/1967)|BFS or DFS|
+|21.08.24|[BOJ 1967 : 트리의 지름](https://www.acmicpc.net/problem/1967)|=[BOJ 1167](https://www.acmicpc.net/problem/1167), BFS or DFS |
 
 <details>
 <summary>View past history</summary>
