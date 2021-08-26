@@ -4,17 +4,17 @@ using namespace std;
 int n;
 int io[100001]; //inorder
 int po[100001]; //postorder
-int idx[100001];
+int idx[100001]; // inorder의 해당 값이 어떤 인덱스 번호에 저장돼있는지 저장하는 배열
 
 void solve(int inStart, int inEnd, int postStart, int postEnd)
 {
-	if (inStart > inEnd || postStart >> postEnd)
+	if (inStart > inEnd || postStart > postEnd)
 		return;
 	
-	int root = po[postEnd];
-	int left = idx[root] - inStart;
-	int right = inEnd - idx[root];
-	cout << root << " ";
+	int root = po[postEnd]; // postOrder의 제일 마지막 수는 root가 됨
+	int left = idx[root] - inStart; // inorder의 root가 저장된 곳을 기준으로 왼쪽, 오른쪽이 구분됨
+	int right = inEnd - idx[root]; // 위 논리와 동일
+	cout << root << " "; // preorder은 root 우선 출력이므로 root 출력
 
 	solve(inStart, idx[root]-1, postStart, postStart+left-1);
 	solve(idx[root]+1, inEnd, postStart+left, postEnd-1);
