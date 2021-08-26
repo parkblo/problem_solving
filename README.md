@@ -1,5 +1,5 @@
 ### 2021 AUGUST
-> GOAL : solved.ac class 4+ (16 / 24)
+> GOAL : solved.ac class 4+ (20 / 24)
 
 |Date|Problems|Remarks|
 |-----|:-----:|:-----:|
@@ -24,6 +24,7 @@
 ||[BOJ 11404 : 플로이드](https://www.acmicpc.net/problem/11404)|Floyd-Warshall [(참고글)](https://blog.naver.com/ndb796/221234427842)|
 |21.08.24|[BOJ 1967 : 트리의 지름](https://www.acmicpc.net/problem/1967)|=[BOJ 1167](https://www.acmicpc.net/problem/1167), BFS or DFS |
 |21.08.25|[BOJ 13549 : 숨바꼭질 3](https://www.acmicpc.net/problem/13549)|우선순위 큐 + BFS|
+|21.08.26|[BOJ 2263 : 트리의 순회](https://www.acmicpc.net/problem/2263)|분할정복|
 
 <details>
 <summary>View past history</summary>
