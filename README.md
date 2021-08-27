@@ -1,5 +1,5 @@
 ### 2021 AUGUST
-> GOAL : solved.ac class 4+ (20 / 24)
+> GOAL : solved.ac class 4+ (21 / 24)
 
 |Date|Problems|Remarks|
 |-----|:-----:|:-----:|
@@ -25,6 +25,7 @@
 |21.08.24|[BOJ 1967 : 트리의 지름](https://www.acmicpc.net/problem/1967)|=[BOJ 1167](https://www.acmicpc.net/problem/1167), BFS or DFS |
 |21.08.25|[BOJ 13549 : 숨바꼭질 3](https://www.acmicpc.net/problem/13549)|우선순위 큐 + BFS|
 |21.08.26|[BOJ 2263 : 트리의 순회](https://www.acmicpc.net/problem/2263)|분할정복|
+|21.08.27|[BOJ 11660 : 구간 합 구하기 5](https://www.acmicpc.net/problem/11660)|DP|
 
 <details>
 <summary>View past history</summary>
