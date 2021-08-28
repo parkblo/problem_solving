@@ -26,7 +26,7 @@
 |21.08.25|[BOJ 13549 : 숨바꼭질 3](https://www.acmicpc.net/problem/13549)|우선순위 큐 + BFS|
 |21.08.26|[BOJ 2263 : 트리의 순회](https://www.acmicpc.net/problem/2263)|분할정복|
 |21.08.27|[BOJ 11660 : 구간 합 구하기 5](https://www.acmicpc.net/problem/11660)|DP|
-|21.08.28|[BOJ 11444 : 피보나치 수 6](https://www.acmicpc.net/problem/11444)||
+|21.08.28|[BOJ 11444 : 피보나치 수 6](https://www.acmicpc.net/problem/11444)|수학적 지식 다분히 [참고글](https://www.acmicpc.net/blog/view/28)|
 
 <details>
 <summary>View past history</summary>
