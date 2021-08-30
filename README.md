@@ -28,7 +28,7 @@
 |21.08.27|[BOJ 11660 : 구간 합 구하기 5](https://www.acmicpc.net/problem/11660)||DP|
 |21.08.28|[BOJ 11444 : 피보나치 수 6](https://www.acmicpc.net/problem/11444)||수학적 지식 다분히 [참고글](https://www.acmicpc.net/blog/view/28)|
 |21.08.29|[BOJ 11650 : 좌표 정렬하기](https://www.acmicpc.net/problem/11650)|||
-|21.08.30|[BOJ 1918 : 후위 표기식](https://www.acmicpc.net/problem/1918)|🔵|스택|
+|21.08.30|[BOJ 1918 : 후위 표기식](https://www.acmicpc.net/problem/1918)|🔴|스택|
 
 <details>
 <summary>View past history</summary>
