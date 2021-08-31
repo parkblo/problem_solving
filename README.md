@@ -1,5 +1,5 @@
 ### 2021 AUGUST
-> GOAL : solved.ac class 4+ (23 / 24)
+> GOAL : solved.ac class 4+ (23 / 241)
 
 |Date|Problems|🏷️|Remarks|
 |-----|:-----:|:-----:|:-----:|
