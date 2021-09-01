@@ -1,5 +1,15 @@
+### 2021 SEPTEMBER
+
+|Date|Problems|🏷️|Remarks|
+|-----|:-----:|:-----:|:-----:|
+|21.09.01|[BOJ 1235 : 학생 번호](https://www.acmicpc.net/problem/1235)||문자열|
+
+<details>
+<summary>View past history</summary>
+<p>
+
 ### 2021 AUGUST
-> GOAL : solved.ac class 4+ (24 / 24)
+> GOAL : solved.ac class 4+ **ACHIEVED!**
 
 |Date|Problems|🏷️|Remarks|
 |-----|:-----:|:-----:|:-----:|
@@ -31,9 +41,6 @@
 |21.08.30|[BOJ 1918 : 후위 표기식](https://www.acmicpc.net/problem/1918)|🔴|스택|
 |21.08.31|[BOJ 1865 : 웜홀](https://www.acmicpc.net/problem/1918)|🔴|벨만포드 or SPFA (음수간선 최단경로)|
 
-<details>
-<summary>View past history</summary>
-<p>
 
 ### 2021 JULY
 |Date|Problems|Remarks|
