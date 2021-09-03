@@ -4,6 +4,7 @@
 |-----|:-----:|:-----:|:-----:|
 |21.09.01|[BOJ 1235 : 학생 번호](https://www.acmicpc.net/problem/1235)||문자열|
 |21.09.02|[BOJ 10816 : 숫자 카드 2](https://www.acmicpc.net/problem/10816)|🔵|lower upper bound 구현|
+|21.09.03|[BOJ 1654 : 랜선 자르기](https://www.acmicpc.net/problem/1654)||parametric search|
 
 <details>
 <summary>View past history</summary>
