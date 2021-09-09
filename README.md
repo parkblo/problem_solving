@@ -10,6 +10,7 @@
 |21.09.06|[BOJ 1072 : 게임](https://www.acmicpc.net/problem/1072)||이분탐색 (최소값 찾기)|
 |21.09.07|[BOJ 2343 : 기타 레슨](https://www.acmicpc.net/problem/2343)|🔵|''|
 |21.09.08|[BOJ 6236 : 용돈 관리](https://www.acmicpc.net/problem/6236)||''|
+|21.09.09|[프로그래머스 월간 코드 챌린지 시즌3 (9월)](https://programmers.co.kr/competitions/1581)|||
 
 <details>
 <summary>View past history</summary>
