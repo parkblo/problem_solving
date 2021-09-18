@@ -17,7 +17,6 @@
 |21.09.14|[프로그래머스: 전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577)|🔵|해시맵으로 풀어보기|
 |21.09.15|[프로그래머스: K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748)||정렬|
 |21.09.16|[프로그래머스: 타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)||DFS|
-|21.09.17|[프로그래머스: 모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840)||완전탐색|
 
 <details>
 <summary>View past history</summary>
