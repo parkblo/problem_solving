@@ -18,6 +18,7 @@
 |21.09.15|[프로그래머스: K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748)||정렬|
 |21.09.16|[프로그래머스: 타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)||DFS|
 |21.09.19|[BOJ 1463 : 1로 만들기](https://www.acmicpc.net/problem/1463)||DP (Bottom-up)|
+|21.09.20|[BOJ 2579 : 계단 오르기](https://www.acmicpc.net/problem/2579)|🔵|DP|
 
 <details>
 <summary>View past history</summary>
