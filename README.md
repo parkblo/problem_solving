@@ -20,6 +20,7 @@
 |21.09.19|[BOJ 1463 : 1로 만들기](https://www.acmicpc.net/problem/1463)||DP (Bottom-up)|
 |21.09.20|[BOJ 2579 : 계단 오르기](https://www.acmicpc.net/problem/2579)|🔵|DP|
 |21.09.21|[BOJ 10844 : 쉬운 계단 수](https://www.acmicpc.net/problem/10844)||D.P.|
+|21.09.22|[BOJ 12852 : 1로 만들기 2](https://www.acmicpc.net/problem/10844)||DP, 역추적|
 
 <details>
 <summary>View past history</summary>
