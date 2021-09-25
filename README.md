@@ -22,6 +22,7 @@
 |21.09.21|[BOJ 10844 : 쉬운 계단 수](https://www.acmicpc.net/problem/10844)||D.P.|
 |21.09.22|[BOJ 12852 : 1로 만들기 2](https://www.acmicpc.net/problem/10844)||DP, 역추적|
 |21.09.23|[BOJ 1987 : 알파벳](https://www.acmicpc.net/problem/1987)||DFS|
+|21.09.25|[BOJ 12100 : 2048 (Easy)](https://www.acmicpc.net/problem/12100)||DFS..!!|
 
 <details>
 <summary>View past history</summary>
