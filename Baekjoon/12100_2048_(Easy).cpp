@@ -1,99 +1,126 @@
-// 아직 해결중인 문제입니다.
-
 #include <vector>
 #include <iostream>
+#include <queue>
 using namespace std;
 
 int N;
 int maxBlock=0;
+queue<int> que;
 const int da[4] = {0,0,-1,1};
 const int db[4] = {-1,1,0,0};
-// left, right, up, down
-
-bool isValidNumber(int a, int b, int dir)
-{
-	if (a<0 || b<0 || a>=N || b>=N)
-		return false;
-	
-	int nextA = a + da[dir];
-	int nextB = b + db[dir];
-
-	if (nextA<0 || nextB<0 || nextA>=N || nextB>=N)
-		return false;
-
-	return true;
-}
+// left, right, up, down 순서
 
 vector<vector<int>> play2048(vector<vector<int> > v, int dir)
 {
-	bool vis[21][21] = {false,};
-
-	// ADD
-	for (int i=0; i<N; i++){
-		for (int j=0; j<N; j++){
-			if (isValidNumber(i,j,dir))
+	if (dir==0) //LEFT
+	{
+		for (int i=0;i<N;i++)
+		{
+			for (int j=0;j<N;j++)
 			{
-				int nextA = i + da[dir];
-				int nextB = j + db[dir];
+				if (v[i][j] != 0)
+					que.push(v[i][j]);
+			}
 
-				while (1)
+			for (int j=0;j<N;j++)
+			{
+				if (!que.empty())
 				{
-					if (nextA<0 || nextB<0 || nextA>=N || nextB>=N)
-						break;
-					
-					if (vis[nextA][nextB] == true)
-						break;
-
-					if (v[i][j] == 0)
-						break;
-
-					if (v[nextA][nextB] == v[i][j])
+					v[i][j] = que.front();
+					que.pop();
+					if (!que.empty() && v[i][j] == que.front())
 					{
-						v[nextA][nextB] = v[i][j] * 2;
-						v[i][j] = 0;
-						//vis[nextA][nextB] = true;
-						break;
+						v[i][j] *= 2;
+						que.pop();
 					}
-
-					if (v[nextA][nextB] > 0)
-						break;
-
-					nextA += da[dir];
-					nextB += db[dir];
+					continue;
 				}
+				v[i][j] = 0;
 			}
 		}
 	}
-
-	// PUSH TO BORDER
-	for (int i=0; i<N; i++){
-		for (int j=0; j<N; j++){
-			if (isValidNumber(i,j,dir))
+	else if (dir==1) //RIGHT
+	{
+		for (int i=0;i<N;i++)
+		{
+			for (int j=N-1;j>=0;j--)
 			{
-				int nextA = i + da[dir];
-				int nextB = j + db[dir];
+				if (v[i][j] != 0)
+					que.push(v[i][j]);
+			}
 
-				while (v[nextA][nextB] == 0)
+			for (int j=N-1;j>=0;j--)
+			{
+				if (!que.empty())
 				{
-					int prevA = nextA -= da[dir];
-					int prevB = nextB -= db[dir];
-					v[nextA][nextB] = v[prevA][prevB];
-					v[prevA][prevB] = 0;
-
-					nextA += da[dir];
-					nextB += db[dir];
-					
-					if (nextA<0 || nextB<0 || nextA>=N || nextB>=N)
-						break;
+					v[i][j] = que.front();
+					que.pop();
+					if (!que.empty() && v[i][j] == que.front())
+					{
+						v[i][j] *= 2;
+						que.pop();
+					}
+					continue;
 				}
+				v[i][j] = 0;
 			}
 		}
 	}
+	else if (dir==2) //UP
+	{
+		for (int j=0;j<N;j++)
+		{
+			for (int i=0;i<N;i++)
+			{
+				if (v[i][j] != 0)
+					que.push(v[i][j]);
+			}
 
+			for (int i=0;i<N;i++)
+			{
+				if (!que.empty())
+				{
+					v[i][j] = que.front();
+					que.pop();
+					if (!que.empty() && v[i][j] == que.front())
+					{
+						v[i][j] *= 2;
+						que.pop();
+					}
+					continue;
+				}
+				v[i][j] = 0;
+			}
+		}
+	}
+	else if (dir==3) //DOWN
+	{
+		for (int j=0;j<N;j++)
+		{
+			for (int i=N-1;i>=0;i--)
+			{
+				if (v[i][j] != 0)
+					que.push(v[i][j]);
+			}
+
+			for (int i=N-1;i>=0;i--)
+			{
+				if (!que.empty())
+				{
+					v[i][j] = que.front();
+					que.pop();
+					if (!que.empty() && v[i][j] == que.front())
+					{
+						v[i][j] *= 2;
+						que.pop();
+					}
+					continue;
+				}
+				v[i][j] = 0;
+			}
+		}
+	}
 	return v;
-
-	// 두번 합쳐지는 경우가 없이 하기 위해 둘로 과정을 나눴으나..
-	// 높은 확률로 아닐 것 같음 (시간초과 유발할것같기도)
 }
 
 int findBiggestNum(vector<vector<int> > v)
@@ -115,8 +142,9 @@ void dfs(vector<vector<int> > v, int dir, int cnt)
 	{
 		int currBiggest = findBiggestNum(v);
 
-		if(maxBlock < currBiggest)
+		if(maxBlock < currBiggest){
 			maxBlock = currBiggest;
+		}
 		
 		return;
 	}
@@ -131,7 +159,6 @@ int main()
 {
 	cin >> N;
 	vector<vector<int> > v(N, vector<int>(N,0));
-
 	for (int i=0; i<N; i++)
 		for (int j=0; j<N; j++)
 			cin >> v[i][j];
