@@ -23,7 +23,7 @@
 |21.09.22|[BOJ 12852 : 1로 만들기 2](https://www.acmicpc.net/problem/10844)||DP, 역추적|
 |21.09.23|[BOJ 1987 : 알파벳](https://www.acmicpc.net/problem/1987)||DFS|
 |21.09.25|[BOJ 12100 : 2048 (Easy)](https://www.acmicpc.net/problem/12100)||DFS..!!|
-|21.09.26|[BOJ 2467 : 용액](https://www.acmicpc.net/problem/2467)||첫 투포인터 문제|
+|21.09.26|[BOJ 2467 : 용액](https://www.acmicpc.net/problem/2467)||≈[BOJ 2470](https://www.acmicpc.net/problem/2470), 첫 투포인터 문제|
 |21.09.27|[BOJ 14888 : 연산자 끼워넣기](https://www.acmicpc.net/problem/14888)||DFS (Easy)|
 |21.09.29|[BOJ 14889 : 스타트와 링크](https://www.acmicpc.net/problem/14889)||DFS, 시간 단축 요소 잘 생각하기|
 
