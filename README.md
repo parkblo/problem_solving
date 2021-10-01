@@ -1,4 +1,15 @@
-### 2021 SEPTEMBER
+### 2021 OCTOBER
+
+|Date|Problems|🏷️|Remarks|
+|-----|:-----:|:-----:|:-----:|
+
+<details>
+<summary>View past history</summary>
+<p>
+
+<details>
+<summary>2021 SEPTEMBER</summary>
+<p>
 
 |Date|Problems|🏷️|Remarks|
 |-----|:-----:|:-----:|:-----:|
@@ -28,11 +39,13 @@
 |21.09.29|[BOJ 14889 : 스타트와 링크](https://www.acmicpc.net/problem/14889)||DFS, 시간 단축 요소 잘 생각하기|
 |21.09.30|[BOJ 1806 : 부분합](https://www.acmicpc.net/problem/1806)||투 포인터|
 
+</p>
+</details>
+
 <details>
-<summary>View past history</summary>
+<summary>2021 AUGUST</summary>
 <p>
 
-### 2021 AUGUST
 > GOAL : solved.ac class 4+ **ACHIEVED!**
 
 |Date|Problems|🏷️|Remarks|
@@ -65,8 +78,13 @@
 |21.08.30|[BOJ 1918 : 후위 표기식](https://www.acmicpc.net/problem/1918)|🔴|스택|
 |21.08.31|[BOJ 1865 : 웜홀](https://www.acmicpc.net/problem/1865)|🔴|벨만포드 or SPFA (음수간선 최단경로)|
 
+</p>
+</details>
 
-### 2021 JULY
+<details>
+<summary>2021 JULY</summary>
+<p>
+
 |Date|Problems|Remarks|
 |-----|:-----:|:-----:|
 |21.07.03|[BOJ 10809 : 알파벳 찾기](https://www.acmicpc.net/problem/10809)||
@@ -96,6 +114,9 @@
 ||[BOJ 7569 : 토마토](https://www.acmicpc.net/problem/7569)||
 |21.07.30|[BOJ 7568 : 덩치](https://www.acmicpc.net/problem/7568)||
 |21.07.31|[BOJ 16236 : 아기 상어](https://www.acmicpc.net/problem/16236)||
+
+</p>
+</details>
 
 </p>
 </details>
