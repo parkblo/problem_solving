@@ -2,6 +2,7 @@
 
 |Date|Problems|🏷️|Remarks|
 |-----|:-----:|:-----:|:-----:|
+|21.10.01|[BOJ 2156 : 포도주 시식](https://www.acmicpc.net/problem/2156)||DP! [2579](https://www.acmicpc.net/problem/2579)번 문제 확장느낌|
 
 <details>
 <summary>View past history</summary>
