@@ -3,6 +3,7 @@
 |Date|Problems|🏷️|Remarks|
 |-----|:-----:|:-----:|:-----:|
 |21.10.01|[BOJ 2156 : 포도주 시식](https://www.acmicpc.net/problem/2156)||DP! [2579](https://www.acmicpc.net/problem/2579)번 문제 확장느낌|
+|21.10.02|[BOJ 2667 : 단지번호붙이기](https://www.acmicpc.net/problem/2667)||BFS, queue 메모리 초과 조심|
 
 <details>
 <summary>View past history</summary>
