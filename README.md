@@ -6,6 +6,7 @@
 |21.10.02|[BOJ 2667 : 단지번호붙이기](https://www.acmicpc.net/problem/2667)||BFS, queue 메모리 초과 조심|
 |21.10.03|[BOJ 1300 : K번째 수](https://www.acmicpc.net/problem/1300)|🔵|이분탐색|
 |21.10.04|[BOJ 1697 : 숨바꼭질](https://www.acmicpc.net/problem/1697)||BFS|
+|21.10.05|[BOJ 3273 : 두 수의 합](https://www.acmicpc.net/problem/3273)||투포인터|
 
 <details>
 <summary>View past history</summary>
