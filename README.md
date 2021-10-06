@@ -7,6 +7,7 @@
 |21.10.03|[BOJ 1300 : K번째 수](https://www.acmicpc.net/problem/1300)|🔵|이분탐색|
 |21.10.04|[BOJ 1697 : 숨바꼭질](https://www.acmicpc.net/problem/1697)||BFS|
 |21.10.05|[BOJ 3273 : 두 수의 합](https://www.acmicpc.net/problem/3273)||투포인터|
+|21.10.06|[BOJ 5403 : AC](https://www.acmicpc.net/problem/5403)||처음 써보는 덱|
 
 <details>
 <summary>View past history</summary>
