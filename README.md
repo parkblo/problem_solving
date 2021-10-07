@@ -8,6 +8,7 @@
 |21.10.04|[BOJ 1697 : 숨바꼭질](https://www.acmicpc.net/problem/1697)||BFS|
 |21.10.05|[BOJ 3273 : 두 수의 합](https://www.acmicpc.net/problem/3273)||투포인터|
 |21.10.06|[BOJ 5403 : AC](https://www.acmicpc.net/problem/5403)||처음 써보는 덱|
+|21.10.07|[BOJ 2075 : N번째 큰 수](https://www.acmicpc.net/problem/5403)|🔵|우선순위 큐|
 
 <details>
 <summary>View past history</summary>
