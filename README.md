@@ -10,6 +10,7 @@
 |21.10.06|[BOJ 5403 : AC](https://www.acmicpc.net/problem/5403)||처음 써보는 덱|
 |21.10.07|[BOJ 2075 : N번째 큰 수](https://www.acmicpc.net/problem/5403)|🔵|우선순위 큐|
 |21.10.08|[BOJ 11506 : 占쏙옙](https://www.acmicpc.net/problem/11506)||[�](https://www.acmicpc.net/workbook/view/127)[�](https://docs.oracle.com/cd/E19199-01/817-4243-10/std-ins-gui.html)|
+|21.10.09|[BOJ 1916 : 최소비용 구하기](https://www.acmicpc.net/problem/1916)||다익스트라|
 
 <details>
 <summary>View past history</summary>
