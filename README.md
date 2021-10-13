@@ -13,6 +13,7 @@
 |21.10.09|[BOJ 1916 : 최소비용 구하기](https://www.acmicpc.net/problem/1916)||다익스트라 기초|
 |21.10.10|[BOJ 1504 : 특정한 최단경로](https://www.acmicpc.net/problem/1504)||다익스트라 응용|
 |21.10.11|[BOJ 9370 : 미확인 도착지](https://www.acmicpc.net/problem/9370)|🔵|다익스트라 응용+|
+|21.10.13|[BOJ 2435 : 기상청 인턴 신현수](https://www.acmicpc.net/problem/2435)||브루트포스|
 
 <details>
 <summary>View past history</summary>
