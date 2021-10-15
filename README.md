@@ -15,6 +15,7 @@
 |21.10.11|[BOJ 9370 : 미확인 도착지](https://www.acmicpc.net/problem/9370)|🔵|다익스트라 응용+|
 |21.10.13|[BOJ 2435 : 기상청 인턴 신현수](https://www.acmicpc.net/problem/2435)||브루트포스|
 |21.10.14|[BOJ 2164 : 카드2](https://www.acmicpc.net/problem/2164)||큐|
+|21.10.15|[BOJ 1026 : 보물](https://www.acmicpc.net/problem/1026)||정렬|
 
 <details>
 <summary>View past history</summary>
