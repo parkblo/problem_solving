@@ -16,6 +16,7 @@
 |21.10.13|[BOJ 2435 : 기상청 인턴 신현수](https://www.acmicpc.net/problem/2435)||브루트포스|
 |21.10.14|[BOJ 2164 : 카드2](https://www.acmicpc.net/problem/2164)||큐|
 |21.10.15|[BOJ 1026 : 보물](https://www.acmicpc.net/problem/1026)||정렬|
+|21.10.16|[BOJ 1065 : 한수](https://www.acmicpc.net/problem/1065)||브루트포스|
 
 <details>
 <summary>View past history</summary>
