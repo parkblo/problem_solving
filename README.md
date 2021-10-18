@@ -18,6 +18,7 @@
 |21.10.15|[BOJ 1026 : 보물](https://www.acmicpc.net/problem/1026)||정렬|
 |21.10.16|[BOJ 1065 : 한수](https://www.acmicpc.net/problem/1065)||브루트포스|
 |21.10.17|[BOJ 5639 : 이진 검색 트리](https://www.acmicpc.net/problem/5639)|🔵|트리구현 or ''분할정복''|
+|21.10.18|[BOJ 9252 : LCS 2](https://www.acmicpc.net/problem/9252)|🔵|[BOJ 9251](https://www.acmicpc.net/problem/9251) 후속, DP|
 
 <details>
 <summary>View past history</summary>
