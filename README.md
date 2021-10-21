@@ -20,6 +20,7 @@
 |21.10.17|[BOJ 5639 : 이진 검색 트리](https://www.acmicpc.net/problem/5639)|🔵|트리구현 or 분할정복|
 |21.10.18|[BOJ 9252 : LCS 2](https://www.acmicpc.net/problem/9252)|🔵|[BOJ 9251](https://www.acmicpc.net/problem/9251) 후속, DP|
 |21.10.19|[BOJ 10773 : 제로](https://www.acmicpc.net/problem/10773)||스택|
+|21.10.21|[BOJ 9012 : 괄호](https://www.acmicpc.net/problem/9012)||STACK|
 
 <details>
 <summary>View past history</summary>
