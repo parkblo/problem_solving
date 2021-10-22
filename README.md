@@ -21,6 +21,7 @@
 |21.10.18|[BOJ 9252 : LCS 2](https://www.acmicpc.net/problem/9252)|🔵|[BOJ 9251](https://www.acmicpc.net/problem/9251) 후속, DP|
 |21.10.19|[BOJ 10773 : 제로](https://www.acmicpc.net/problem/10773)||스택|
 |21.10.21|[BOJ 9012 : 괄호](https://www.acmicpc.net/problem/9012)||STACK|
+|21.10.22|[BOJ 1717 : 집합의 표현](https://www.acmicpc.net/problem/1717)|🔵|첫 유니온 파인드|
 
 <details>
 <summary>View past history</summary>
