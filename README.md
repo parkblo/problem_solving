@@ -24,6 +24,7 @@
 |21.10.22|[BOJ 1717 : 집합의 표현](https://www.acmicpc.net/problem/1717)|🔵|첫 유니온 파인드|
 |21.10.23|[BOJ 1976 : 여행 가자](https://www.acmicpc.net/problem/1976)||유니온 파인드 or DFS or BFS|
 |21.10.24|[BOJ 4195 : 친구 네트워크](https://www.acmicpc.net/problem/4195)|🔵|해시 + 유니온 파인드 (weighted로 품)|
+|21.10.26|[BOJ 2003 : 수들의 합 2](https://www.acmicpc.net/problem/2003)|||
 
 <details>
 <summary>View past history</summary>
