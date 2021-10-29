@@ -27,6 +27,7 @@
 |21.10.26|[BOJ 2003 : 수들의 합 2](https://www.acmicpc.net/problem/2003)|🔵|투 포인터|
 |21.10.27|[BOJ 1929 : 소수 구하기](https://www.acmicpc.net/problem/1929)|🔵|[에라토스테네스의 체](https://blog.naver.com/ndb796/221233595886)|
 |21.10.28|[BOJ 4948 : 베르트랑 공준](https://www.acmicpc.net/problem/4948)||전과 동, 소수판별|
+|21.10.29|[BOJ 11286 : 절댓값 힙](https://www.acmicpc.net/problem/11286)||우선순위 큐|
 
 <details>
 <summary>View past history</summary>
