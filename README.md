@@ -29,6 +29,7 @@
 |21.10.28|[BOJ 4948 : 베르트랑 공준](https://www.acmicpc.net/problem/4948)||전과 동, 소수판별|
 |21.10.29|[BOJ 11286 : 절댓값 힙](https://www.acmicpc.net/problem/11286)||우선순위 큐|
 |21.10.30|[BOJ 5052 : 전화번호 목록](https://www.acmicpc.net/problem/5052)||문자열|
+|21.10.31|[BOJ 11047 : 동전 0](https://www.acmicpc.net/problem/11047)||그리디|
 
 <details>
 <summary>View past history</summary>
