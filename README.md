@@ -1,4 +1,16 @@
-### 2021 OCTOBER
+### 2021 NOVEMBER
+
+|Date|Problems|🏷️|Remarks|
+|-----|:-----:|:-----:|:-----:|
+|21.11.01|[BOJ 12865 : 평범한 배낭](https://www.acmicpc.net/problem/12865)||배낭 문제 복습 [(Notion)](https://funny-joggers-d9f.notion.site/Knapsack-Problem-1ff6a36da7c14bb584efc0eb367c2d49)|
+
+<details>
+<summary>View past history</summary>
+<p>
+
+<details>
+<summary>2021 OCTOBER</summary>
+<p>
 
 |Date|Problems|🏷️|Remarks|
 |-----|:-----:|:-----:|:-----:|
@@ -31,9 +43,8 @@
 |21.10.30|[BOJ 5052 : 전화번호 목록](https://www.acmicpc.net/problem/5052)||문자열|
 |21.10.31|[BOJ 11047 : 동전 0](https://www.acmicpc.net/problem/11047)||그리디|
 
-<details>
-<summary>View past history</summary>
-<p>
+</p>
+</details>
 
 <details>
 <summary>2021 SEPTEMBER</summary>
