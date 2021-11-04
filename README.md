@@ -25,7 +25,7 @@
 |21.10.08|[BOJ 11506 : 占쏙옙](https://www.acmicpc.net/problem/11506)||[�](https://www.acmicpc.net/workbook/view/127)[�](https://docs.oracle.com/cd/E19199-01/817-4243-10/std-ins-gui.html)|
 |21.10.09|[BOJ 1916 : 최소비용 구하기](https://www.acmicpc.net/problem/1916)||다익스트라 기초|
 |21.10.10|[BOJ 1504 : 특정한 최단경로](https://www.acmicpc.net/problem/1504)||다익스트라 응용|
-|21.10.11|[BOJ 9370 : 미확인 도착지](https://www.acmicpc.net/problem/9370)|🔵|다익스트라 응용+|
+|21.10.11|[BOJ 9370 : 미확인 도착지](https://www.acmicpc.net/problem/9370)|🔵|다익스트라 응용|
 |21.10.13|[BOJ 2435 : 기상청 인턴 신현수](https://www.acmicpc.net/problem/2435)||브루트포스|
 |21.10.14|[BOJ 2164 : 카드2](https://www.acmicpc.net/problem/2164)||큐|
 |21.10.15|[BOJ 1026 : 보물](https://www.acmicpc.net/problem/1026)||정렬|
