@@ -3,7 +3,8 @@
 |Date|Problems|🏷️|Remarks|
 |-----|:-----:|:-----:|:-----:|
 |21.11.01|[BOJ 12865 : 평범한 배낭](https://www.acmicpc.net/problem/12865)||배낭 문제 복습 [(Notion)](https://funny-joggers-d9f.notion.site/Knapsack-Problem-1ff6a36da7c14bb584efc0eb367c2d49)|
-|21.11.03|[BOJ 1316 : 그룹 단어 체커](https://www.acmicpc.net/problem/1316)||문자열|
+|21.11.05|[BOJ 1316 : 그룹 단어 체커](https://www.acmicpc.net/problem/1316)||문자열|
+|21.11.06|[BOJ 1003 : 피보나치 함수](https://www.acmicpc.net/problem/1003)|🔵|DP|
 
 <details>
 <summary>View past history</summary>
