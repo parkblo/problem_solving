@@ -7,6 +7,7 @@
 |21.11.06|[BOJ 1003 : 피보나치 함수](https://www.acmicpc.net/problem/1003)|🔵|DP|
 |21.11.07|[BOJ 11726 : 2xn 타일링](https://www.acmicpc.net/problem/11726)||DP|
 |21.11.08|[BOJ 5014 : 스타트링크](https://www.acmicpc.net/problem/5014)||BFS|
+|21.11.09|[BOJ 2178 : 미로 탐색](https://www.acmicpc.net/problem/2178)||BFS|
 
 <details>
 <summary>View past history</summary>
