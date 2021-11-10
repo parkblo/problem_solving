@@ -8,6 +8,7 @@
 |21.11.07|[BOJ 11726 : 2xn 타일링](https://www.acmicpc.net/problem/11726)||DP|
 |21.11.08|[BOJ 5014 : 스타트링크](https://www.acmicpc.net/problem/5014)||BFS|
 |21.11.09|[BOJ 2178 : 미로 탐색](https://www.acmicpc.net/problem/2178)||BFS|
+|21.11.10|[BOJ 11651 : 좌표 정렬하기 2](https://www.acmicpc.net/problem/11651)||정렬|
 
 <details>
 <summary>View past history</summary>
