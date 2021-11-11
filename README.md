@@ -9,6 +9,7 @@
 |21.11.08|[BOJ 5014 : 스타트링크](https://www.acmicpc.net/problem/5014)||BFS|
 |21.11.09|[BOJ 2178 : 미로 탐색](https://www.acmicpc.net/problem/2178)||BFS|
 |21.11.10|[BOJ 11651 : 좌표 정렬하기 2](https://www.acmicpc.net/problem/11651)||정렬|
+|21.11.11|[BOJ 1931 : 회의실 배정](https://www.acmicpc.net/problem/1931)||그리디|
 
 <details>
 <summary>View past history</summary>
