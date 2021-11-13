@@ -11,6 +11,8 @@
 |21.11.10|[BOJ 11651 : 좌표 정렬하기 2](https://www.acmicpc.net/problem/11651)||정렬|
 |21.11.11|[BOJ 1931 : 회의실 배정](https://www.acmicpc.net/problem/1931)||그리디|
 |21.11.12|[BOJ 11399 : ATM](https://www.acmicpc.net/problem/11399)||그리디|
+|21.11.13|[BOJ 10814 : 나이순 정렬](https://www.acmicpc.net/problem/10814)||정렬|
+|21.11.13|[BOJ 1068 : 트리](https://www.acmicpc.net/problem/1068)||DFS, 트리|
 
 <details>
 <summary>View past history</summary>
