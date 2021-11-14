@@ -13,6 +13,7 @@
 |21.11.12|[BOJ 11399 : ATM](https://www.acmicpc.net/problem/11399)||그리디|
 |21.11.13|[BOJ 10814 : 나이순 정렬](https://www.acmicpc.net/problem/10814)||정렬|
 |21.11.13|[BOJ 1068 : 트리](https://www.acmicpc.net/problem/1068)||DFS, 트리|
+|21.11.14|[BOJ 1541 : 잃어버린 괄호](https://www.acmicpc.net/problem/1541)||그리디, 문자열|
 
 <details>
 <summary>View past history</summary>
