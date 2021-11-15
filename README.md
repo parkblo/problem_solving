@@ -14,6 +14,7 @@
 |21.11.13|[BOJ 10814 : 나이순 정렬](https://www.acmicpc.net/problem/10814)||정렬|
 |21.11.13|[BOJ 1068 : 트리](https://www.acmicpc.net/problem/1068)||DFS, 트리|
 |21.11.14|[BOJ 1541 : 잃어버린 괄호](https://www.acmicpc.net/problem/1541)||그리디, 문자열|
+|21.11.15|[BOJ 1002 : 터렛](https://www.acmicpc.net/problem/1002)|🔵|기하 ([두 원의 위치관계](https://mathbang.net/101))|
 
 <details>
 <summary>View past history</summary>
