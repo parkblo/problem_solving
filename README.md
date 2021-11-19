@@ -17,6 +17,7 @@
 |21.11.15|[BOJ 1002 : 터렛](https://www.acmicpc.net/problem/1002)|🔵|기하 ([두 원의 위치관계](https://mathbang.net/101))|
 |21.11.16|-|-|클래스 공부|
 |21.11.17|[BOJ 11758 : CCW](https://www.acmicpc.net/problem/11758)|🔵|CCW 알고리즘 [(Notion)](https://funny-joggers-d9f.notion.site/CCW-Counter-Clockwise-6cb2f0ac3b634ab8be75561af0a1048c)|
+|21.11.19|[BOJ 17386 : 선분 교차 1](https://www.acmicpc.net/problem/17386)||CCW, 선분 교차 판정|
 
 <details>
 <summary>View past history</summary>
