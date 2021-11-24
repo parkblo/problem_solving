@@ -21,6 +21,7 @@
 |21.11.21|[BOJ 23561 : Young한 에너지는 부족하다](https://www.acmicpc.net/problem/23561)||그리디와 정렬|
 |21.11.22|[BOJ 17952 : 과제는 끝나지 않아!](https://www.acmicpc.net/problem/17952)||스택|
 |21.11.23|[BOJ 23304 : 아카라카](https://www.acmicpc.net/problem/23304)||문자열, 재귀|
+|21.11.24|[BOJ 10546 : 배부른 마라토너](https://www.acmicpc.net/problem/10546)||해시맵|
 
 <details>
 <summary>View past history</summary>
