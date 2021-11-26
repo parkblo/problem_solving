@@ -22,6 +22,7 @@
 |21.11.22|[BOJ 17952 : 과제는 끝나지 않아!](https://www.acmicpc.net/problem/17952)||스택|
 |21.11.23|[BOJ 23304 : 아카라카](https://www.acmicpc.net/problem/23304)||문자열, 재귀|
 |21.11.24|[BOJ 10546 : 배부른 마라토너](https://www.acmicpc.net/problem/10546)||해시맵|
+|21.11.26|[BOJ 11000 : 강의실 배정](https://www.acmicpc.net/problem/11000)|🔵|우선순위 큐|
 
 <details>
 <summary>View past history</summary>
