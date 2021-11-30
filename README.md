@@ -25,6 +25,8 @@
 |21.11.26|[BOJ 11000 : 강의실 배정](https://www.acmicpc.net/problem/11000)|🔵|우선순위 큐|
 |21.11.27|[BOJ 6603 : 로또](https://www.acmicpc.net/problem/6603)||재귀, 백트래킹|
 |21.11.28|[BOJ 16212 : 정열적인 정렬](https://www.acmicpc.net/problem/16212)||정렬|
+|21.11.29|[BOJ 1012 : 유기농 배추](https://www.acmicpc.net/problem/1012)||BFS|
+
 
 <details>
 <summary>View past history</summary>
