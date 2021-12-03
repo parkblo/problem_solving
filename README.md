@@ -1,4 +1,12 @@
-### 2021 NOVEMBER
+잠시만요
+
+<details>
+<summary>View past history</summary>
+<p>
+
+<details>
+<summary>2021 NOVEMBER</summary>
+<p>
 
 |Date|Problems|🏷️|Remarks|
 |-----|:-----:|:-----:|:-----:|
@@ -27,11 +35,9 @@
 |21.11.28|[BOJ 16212 : 정열적인 정렬](https://www.acmicpc.net/problem/16212)||정렬|
 |21.11.29|[BOJ 1012 : 유기농 배추](https://www.acmicpc.net/problem/1012)||BFS|
 
-
-<details>
-<summary>View past history</summary>
-<p>
-
+</p>
+</details>
+  
 <details>
 <summary>2021 OCTOBER</summary>
 <p>
