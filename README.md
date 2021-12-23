@@ -1,5 +1,3 @@
-잠시만요
-
 <details>
 <summary>View past history</summary>
 <p>
