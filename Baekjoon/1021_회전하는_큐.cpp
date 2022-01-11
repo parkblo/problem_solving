@@ -32,19 +32,30 @@ int main()
     int n,m;
     cin >> n >> m;
 
-    for (int i=0; i<n; i++)
+    for (int i=1; i<=n; i++)
     {
-        int tmp;
-        cin >> tmp;
-        dq.push_back(tmp);
+        dq.push_back(i);
     }
 
     for (int i=0; i<m; i++)
-        cin >> v[i];
+    {
+        int tmp;
+        cin >> tmp;
+        v.push_back(tmp);
+    }
 
     for (int t=0; t<m; t++)
     {
-        if (dq.size() / v[t] >= 2) // 2번 수행이 유리
+        int target=0;
+        
+        // ?
+        for (int i=0; i<dq.size(); i++)
+        {
+            if (dq[i] == v[t]) break;
+            else target = i;
+        }
+        
+        if (dq.size() / 2 > target) // 2번 수행이 유리
         {
             int ret = dq.front();
             while (ret != v[t])
