@@ -16,7 +16,7 @@ int turretScan(int x1, int y1, int r1, int x2, int y2, int r2)
 	else if (r1 + r2 == d || br - sr == d) return 1;
 	else return 0;
 }
-
+// 울고싶어요
 int main()
 {
 	int T;
