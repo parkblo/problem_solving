@@ -68,7 +68,7 @@
 |21.10.24|[BOJ 4195 : 친구 네트워크](https://www.acmicpc.net/problem/4195)|🔵|해시 + 유니온 파인드 (weighted로 품)|
 |21.10.26|[BOJ 2003 : 수들의 합 2](https://www.acmicpc.net/problem/2003)|🔵|투 포인터|
 |21.10.27|[BOJ 1929 : 소수 구하기](https://www.acmicpc.net/problem/1929)|🔵|[에라토스테네스의 체](https://blog.naver.com/ndb796/221233595886)|
-|21.10.28|[BOJ 4948 : 베르트랑 공준](https://www.acmicpc.net/problem/4948)||전과 동, 소수판별|
+|21.10.28|[BOJ 4948 : 베르트랑 공준](https://www.acmicpc.net/problem/4948)||전과 동, 소수 판별|
 |21.10.29|[BOJ 11286 : 절댓값 힙](https://www.acmicpc.net/problem/11286)||우선순위 큐|
 |21.10.30|[BOJ 5052 : 전화번호 목록](https://www.acmicpc.net/problem/5052)||문자열|
 |21.10.31|[BOJ 11047 : 동전 0](https://www.acmicpc.net/problem/11047)||그리디|
