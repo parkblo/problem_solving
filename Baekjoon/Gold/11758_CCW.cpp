@@ -18,6 +18,6 @@ int main()
 	cin >> x2 >> y2;
 	cin >> x3 >> y3;
 
-	cout << CCW(x1, y1, x2, y2, x3, y3);
+	cout << CCW(x1, y1, x2, y2, x3, y3) << '\n';
 	return 0;
 }
