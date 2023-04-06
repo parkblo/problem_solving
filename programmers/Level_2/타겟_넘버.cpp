@@ -12,8 +12,8 @@ void dfs(vector<int> numbers, int count, int curr, int target)
         return;
     }
     
-    dfs(numbers,count+1,curr+numbers[count],target);
-    dfs(numbers,count+1,curr-numbers[count],target);
+    dfs(numbers,count+1, curr+numbers[count], target);
+    dfs(numbers,count+1, curr-numbers[count], target);
 }
 
 int solution(vector<int> numbers, int target) {
