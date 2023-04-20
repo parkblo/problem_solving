@@ -36,7 +36,7 @@ int main() {
             indegree[next]--;
             if (indegree[next] == 0) {
                 q.push(next);
-                result[next] = max(result[next], result[cur] + 1); //★
+                result[next] = max(result[next], result[cur]+1); //★
             }
         }
     }
