@@ -24,7 +24,7 @@ int DFS(int curr)
 
 	int result = dfsn[curr];
 	for (int next: adj[curr]){
-		if (dfsn[next] == 0) result = min(result, DFS(next));
+		if (dfsn[next] == 0) result = min(result,DFS(next));
 		else if (!finished[next]) result = min(result, dfsn[next]);
 	}
 
