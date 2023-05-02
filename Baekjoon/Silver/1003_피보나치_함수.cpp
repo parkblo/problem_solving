@@ -19,7 +19,7 @@ int main()
 	for (int i=0; i<t; i++)
 	{
 		int n;
-		cin >> n;
+		cin>>n;
 
 		cout << dp[0][n] << ' ' << dp[1][n] << '\n';
 	}
