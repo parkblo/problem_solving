@@ -8,7 +8,7 @@ vector<int> solution(vector<int> array, vector< vector<int>> commands) {
     vector<int> answer;
     vector<int> tmp;
     
-    for (int i=0; i<commands.size(); i++)
+    for (int i=0; i < commands.size(); i++)
     {
         for (int j=commands[i][0]; j <= commands[i][1]; j++)
         {
