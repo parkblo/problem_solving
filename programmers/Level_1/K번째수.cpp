@@ -15,7 +15,7 @@ vector<int> solution(vector<int> array, vector< vector<int>> commands) {
             tmp.push_back(array[j-1]);
         }
         sort(tmp.begin(),tmp.end());
-        answer.push_back(tmp[commands[i][2]-1]);
+        answer.push_back( tmp[commands[i][2]-1] );
         tmp.clear();
     }
     
