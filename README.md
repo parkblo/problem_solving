@@ -27,7 +27,7 @@
 |21.11.17|[BOJ 11758 : CCW](https://www.acmicpc.net/problem/11758)|🔵|CCW 알고리즘 [(Notion)](https://funny-joggers-d9f.notion.site/CCW-Counter-Clockwise-6cb2f0ac3b634ab8be75561af0a1048c)|
 |21.11.19|[BOJ 17386 : 선분 교차 1](https://www.acmicpc.net/problem/17386)||CCW, 선분 교차 판정|
 |21.11.21|[BOJ 23561 : Young한 에너지는 부족하다](https://www.acmicpc.net/problem/23561)||그리디와 정렬|
-|21.11.22|[BOJ 17952 : 과제는 끝나지 않아!](https://www.acmicpc.net/problem/17952)||스택|
+|21.11.22|[BOJ 17952 : 과제는 끝나지 않아!](https://www.acmicpc.net/problem/17952)||스택 |
 |21.11.23|[BOJ 23304 : 아카라카](https://www.acmicpc.net/problem/23304)||문자열, 재귀|
 |21.11.24|[BOJ 10546 : 배부른 마라토너](https://www.acmicpc.net/problem/10546)||해시맵|
 |21.11.26|[BOJ 11000 : 강의실 배정](https://www.acmicpc.net/problem/11000)|🔵|우선순위 큐|
