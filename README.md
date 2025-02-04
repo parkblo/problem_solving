@@ -1,5 +1,10 @@
 ![image](https://user-images.githubusercontent.com/62245207/166436256-f57c27ba-0bca-497d-b7b9-786720c5c801.png)
 
+|Date|Problems|🏷️|Remarks|
+|-----|:-----:|:-----:|:-----:|
+|25.02.04|[18513번: 샘터](https://www.acmicpc.net/problem/18513)|😵|BFS, 매번 queue의 front를 처리하는 것보다 한 턴씩 큐 전체를 탐색하여 시간 효율을 증가할 수 있다. 추가적으로 js로 풀이할 시 큰 수에 대해 추가적인 처리가 필요하지 않았다. BFS 풀이를 떠올리는 것이 어려운 문제같다.|
+
+
 <details>
 <summary>View past history</summary>
 <p>
