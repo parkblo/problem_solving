@@ -6,6 +6,7 @@
 |25.02.06|[16435번: 스네이크버드](https://www.acmicpc.net/problem/16435)||간단한 정렬 활용 문제|
 |25.02.07|[2285번: 우체국](https://www.acmicpc.net/problem/2285)|😵|그리디하게 사람 수를 기준으로 위치를 선정하는 문제. 기준점을 어떻게 세울 것인지 판단하는 것이 어려웠다. [참고1](https://min413903.tistory.com/70) [참고2](https://youngseo-computerblog.tistory.com/105)|
 |25.02.10|[20115번: 에너지 드링크](https://www.acmicpc.net/problem/20115)|🎂|그리디하게 생각하기|
+|25.02.12|[14925번: 목장 건설하기](https://www.acmicpc.net/problem/14925)|😵|누적합을 응용한 DP 문제. BFS로 풀이한다면 시간 관리에 어려움이 있다. [참고1](https://sangdo913.tistory.com/116) [참고2](https://blog.naver.com/jinhan814/222293314366)|
 
 
 <details>
